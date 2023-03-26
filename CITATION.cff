@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sutemire
+    given-names: Nathan
+    orcid: https://orcid.org/0000-0001-7736-3123
+title: "MATLAB Script for Obtaining the Roughness of the Cross-sectional Interfaces in SiC Monofilaments from SEM Images
+"
+version: 2.0.4
+url: https://github.com/nsutemire-Surrey/MATLAB-Interfacial-Roughness-SEM
+date-released: 2021-08-11
